@@ -4,9 +4,11 @@ function App() {
 
 
   return (
-    <>
-     <p className='bg-black'>hola</p>
-    </>
+
+     <div className='h-screen w-screen bg-gradient-to-b from-black via-black/90 to-[#27006F]'>
+        
+     </div>
+
   )
 }
 
