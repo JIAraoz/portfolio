@@ -6,11 +6,11 @@ export default function Home(){
 
         <div className="grid-left justify-items-center">
 
-        <div className="hi-there-home text-2xl text-white flex mb-3 ">
+        <div className="hi-there-home  text-gray-300 flex mb-3 text-4xl">
         I'm<span className="text-purple-700 pl-2"> Ignacio</span>
         </div>
         
-        <p className="text-white">
+        <p className="text-gray-300">
          A passionate about the world of web development, particularly in the PERN stack (PostgreSQL, Express, React, Node.js). I'm always eager to learn new technologies and take on new challenges.
         </p>
         
