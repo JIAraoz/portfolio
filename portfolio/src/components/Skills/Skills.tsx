@@ -1,6 +1,6 @@
 export default function Skills(){
     return(<>
-        <div className="pt-20 justify-center justify-items-center"><h2 className="text-gray-300 text-4xl"> TECH SKILLS</h2></div>
+        <div className="mt-20 justify-center justify-items-center"><h2 className="text-gray-300 text-4xl"> TECH SKILLS</h2></div>
         <div className="justify-items-center pt-10 grid grid-cols-3 gap-10 px-96">
             <img src="./images/skillsIcons/atom.png " alt="React" className="h-16" />
             <img src="./images/skillsIcons/js.png" alt="JS"  className="h-16"/>

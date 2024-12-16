@@ -1,0 +1,36 @@
+{
+    "projects":[
+        {
+            "name":"PF Ecommerce Poleritas",
+            "technologies":["atom","css-3","expressJS","html-5","postgre","Sequelize","js","node"],
+            "image":"poleritas",
+            "url":"https://github.com/JIAraoz/e-commerce-Poleritas"
+        
+        },
+        {
+            "name":"PI Videogames",
+            "technologies":["atom","css-3","expressJS","html-5","postgre","Sequelize","js","node"],
+            "image":"videogames",
+            "url":"https://github.com/JIAraoz/PI-Videogames"
+        },
+        {
+            "name":"Portfolio",
+            "technologies":["typescript","atom","Tailwind","html-5"],
+            "image":"portfolio",
+            "url":"https://github.com/JIAraoz/portfolio"
+        },
+        {
+            "name":"video-to-ascii",
+            "technologies":["js","html-5"],
+            "image":"video-to-ascii",
+            "url":"https://github.com/JIAraoz/video-to-ascii"
+        },
+        {
+            "name":"api-superflights",
+            "technologies":["typescript","Nest","postgre"],
+            "image":"api",
+            "url":"https://github.com/JIAraoz/api-superflights"
+        }
+       
+    ]
+} 
