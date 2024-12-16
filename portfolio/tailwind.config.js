@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors:{
-        'purpleX':'#27006F',
+        'purpleX':'#27006e',
       },
       keyframes: {
         breathing: {
