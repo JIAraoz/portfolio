@@ -1,3 +1,5 @@
+import { transform } from 'typescript'
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -10,6 +12,11 @@ export default {
         'purpleX':'#27006e',
       },
       keyframes: {
+        hover:{
+          '0%':{transform:'translateY(0)'},
+          '100%':{transform:'translateY(-5px)'}
+        }
+        ,
         breathing: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-3px)' },
@@ -17,6 +24,7 @@ export default {
       },
       animation: {
         breathing: 'breathing 2s ease-in-out infinite',
+        hover: 'hover 0.5s ease forwards '
       }
     },
   },
