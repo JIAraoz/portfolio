@@ -3,7 +3,7 @@ import ProjectCard from '../ProjectCard/ProjectCard'
 export default function Projects(){
 
     return(
-        <div className="pt-20 justify-center justify-items-center">
+        <div className="pt-20 justify-center justify-items-center pb-20">
             <h2 className="text-gray-300 text-4xl">
             PROJECTS 
             </h2>
